@@ -2,8 +2,7 @@
 Fabric-Lan is an Fabric version for TLauncher users that supports TLauncher Skins. 
 Download from "versions" tag
 
-You can use it by downloading the main folder from the repo and pasting it in the /.minecraft/versions folder.
-
+You can use it by downloading the versions you want from "releases"  (look right)
 
 
 

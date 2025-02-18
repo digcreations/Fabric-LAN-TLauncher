@@ -17,3 +17,6 @@ if youre an owner of any assets that i use, contact me at infohiguys214@gmail.co
 
 
 Thank you! :P
+edit as of feb 2025:
+i discontinued making this, its still gonna be here but why discontinue? 
+Well, i bought legitimate minecraft so as of today theres no point in making this. i will still consider making this, like a sodium archive.
